@@ -27,7 +27,7 @@
 ![ToDo-App-Add](https://github.com/hey-its-d2t2/ToDo-App/assets/63626210/4e24d37c-fb34-442b-8070-e542972b5c3f)
 > - ## **After adding some tasks**
 ![ToDo-App-After-Adding-Some-Tasks](https://github.com/hey-its-d2t2/ToDo-App/assets/63626210/6f96355c-fcc7-4e62-90eb-4c884beda00e)
-> - ## **After completing some tasks*
+> - ## **After completing some tasks**
 ![ToDo-App-After-Mark-Completed-Some-Tasks](https://github.com/hey-its-d2t2/ToDo-App/assets/63626210/aa2ea531-1a0b-4e64-9d10-6cdefee2d8fe)
 > - ## **Edit**
 ![ToDo-App-Edit](https://github.com/hey-its-d2t2/ToDo-App/assets/63626210/d99a9d2e-508c-427b-a95c-37032c1595f0)
