@@ -20,6 +20,19 @@
      _Offering RESTful APIs for seamless integration with other applications or platforms._
 - ### **8) Data Persistence:**
      _Leveraging Hibernate's powerful ORM capabilities to handle data persistence efficiently, supporting relational databases MySQL_
+
+> ## **Technology used:**
+  - Java
+  - Spring Boot
+  - MVC Architecture
+  - Hibernate
+  - Lombok
+  - HTML
+  - CSS
+  - Bootstrap
+  - JSP
+  - Servlet
+  - MySql
   
 > - ##  **Home**
 ![ToDo-App-Home](https://github.com/hey-its-d2t2/ToDo-App/assets/63626210/3d2b2a08-88af-43f4-8ec8-65552e7ae3ab)
